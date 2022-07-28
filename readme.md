@@ -1,5 +1,5 @@
 # README
-<p>- Jogo SpaceInvaders feito com pygame.</p>
+<p>- Jogo Space Invaders feito com pygame.</p>
 
 <h1 align="center">
     <img alt="Readme" title="Readme" src="./arquivos/icon.png"/>
